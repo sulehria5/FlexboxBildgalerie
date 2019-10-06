@@ -4,12 +4,12 @@ main section {
     flex-wrap: wrap;
 }
 main section article{
-    flex: 25%;
+    flex: 35%;
     max-width: 25%;
 }
 img{
-    width: 98%;
-    height: 25%;
-    margin: 1% 2%;
+    width: 95%;
+    height: 22%;
+    margin: 2% 2%;
     
 }
