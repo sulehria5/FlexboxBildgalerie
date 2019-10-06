@@ -1,0 +1,15 @@
+
+main section {
+    display: flex;
+    flex-wrap: wrap;
+}
+main section article{
+    flex: 25%;
+    max-width: 25%;
+}
+img{
+    width: 98%;
+    height: 25%;
+    margin: 1% 2%;
+    
+}
